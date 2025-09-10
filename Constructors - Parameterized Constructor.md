@@ -20,7 +20,7 @@ x=person(a,b)
 x.show()
 ~~~
 # OUTPUT
-<img width="1091" height="285" alt="image" src="https://github.com/user-attachments/assets/91264270-697c-49b0-b1a8-2b217d77b2e8" />
+<img width="1091" height="285" alt="image" src="https://github.com/user-attachments/assets/99847fa8-9c06-40f6-9572-a1616b088fcf" />
 
-# RESULT
+# RESULT 
 Thus the python program was initiated and executed successfully.
